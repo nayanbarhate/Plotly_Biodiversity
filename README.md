@@ -25,10 +25,10 @@ https://nayanbarhate.github.io/Plotly_Biodiversity/
 
 2. Bubble plot 
 
-![Pic 3](https://github.com/nayanbarhate/Plotly_Biodiversity/blob/main/images/bubble_plot.png)
+![Pic 3](https://github.com/nayanbarhate/Plotly_Biodiversity/blob/main/images/bubble_chart.png)
 
 3. Gauge chart
 
-![Pic 4](https://github.com/nayanbarhate/Plotly_Biodiversity/blob/main/images/gauge.png)
+![Pic 4](https://github.com/nayanbarhate/Plotly_Biodiversity/blob/main/images/guage.png)
 
 
